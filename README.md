@@ -1,12 +1,12 @@
 # 🛡️ JSArmor
 
-A powerful, **Open-source** JavaScript library that **protects** and **obfuscates** your JavaScript code from theft and inspection.We built this library using an externally hosted obfuscator (obfuscator.io) to make integration fast and effortless.
+A powerful, **Open-source** JavaScript & node.js library that **protects** and **obfuscates** your JavaScript code from theft and inspection.We built this library using an externally hosted obfuscator (obfuscator.io) to make integration fast and effortless.
 
 ---
 
 ## ✨ Features
 
-- 🔐 **Advanced JS Obfuscation** - Multi-layer code protection & encoding
+- 🔐 **Advanced JS & node.js Obfuscation** - Multi-layer code protection & encoding
 - 🌐 **Domain Lock** - Restrict code execution to specific domains only
 - ⚡ **Code Optimization** - Maintains functionality while securing code
 - 🎯 **Easy Integration** - Simple API, just one function call
